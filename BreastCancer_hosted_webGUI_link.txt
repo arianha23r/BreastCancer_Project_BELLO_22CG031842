@@ -1,6 +1,7 @@
-Oshiolema Omokhapue
-22CG031931
+BELLO RERELOLUWA
+22CG031842
 Random Forest Classifier
 Joblib
-https://github.com/Oshiolema/breast-cancer-prediction-22CG031931
-https://breast-cancer-prediction-22cg031931.onrender.com
+https://github.com/arianha23r/BreastCancer_Project_BELLO_22CG031842
+
+https://breastcancer-project-bello-22cg031842.onrender.com/
